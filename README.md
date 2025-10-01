@@ -31,8 +31,6 @@ The notebook demonstrates data exploration, visualization, preprocessing, and in
   * Performance (OverTime, PerformanceRating)
 * **Target Variable:** `Attrition` (Yes/No)
 
-*(If you have a specific dataset source, add the link here.)*
-
 ---
 
 ## 🔎 Methodology
